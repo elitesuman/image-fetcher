@@ -3,8 +3,6 @@
 This is a nodejs API/module for fetching all the images from a wesite. It will go through all the links present in the entire
 website and will fetch the images.
 
-See the [package source](https://github.com/elitesuman/ifsc-nodejs) for more details.
-
 ## Installation
 
 ```js
